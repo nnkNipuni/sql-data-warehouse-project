@@ -62,15 +62,6 @@ These analytics provide stakeholders with **key metrics** for data-driven decisi
 
 ---
 
-## 📂 Repository Structure
-
-├── data/ # Source CSV files 📄
-├── sql/ # SQL scripts (DDL, ETL, analytics queries) 📝
-├── docs/ # Data model and project documentation 📚
-└── README.md
-
----
-
 ## 🚀 How to Run
 
 1. Set up SQL Server in your local environment (Docker-based 🐳).  
